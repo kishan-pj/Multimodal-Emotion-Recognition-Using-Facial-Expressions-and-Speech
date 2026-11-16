@@ -1,0 +1,4 @@
+Split,Dialogs,Mean utterances per dialogue,Median utterances per dialogue,Maximum utterances in a dialogue
+train,1038,9.62,9.0,24
+dev,114,9.73,10.0,23
+test,280,9.32,9.0,33

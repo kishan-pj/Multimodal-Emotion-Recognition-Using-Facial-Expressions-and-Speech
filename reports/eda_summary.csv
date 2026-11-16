@@ -1,0 +1,4 @@
+Split,Utterances,Columns,Missing cells,Exact duplicate rows (check only),Duplicate dialogue/utterance IDs (check only)
+train,9989,11,0,0,0
+dev,1109,11,0,0,0
+test,2610,11,0,0,0
