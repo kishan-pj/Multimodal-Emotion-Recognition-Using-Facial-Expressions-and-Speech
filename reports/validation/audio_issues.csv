@@ -1,0 +1,3 @@
+Dataset,Video,Issue
+Train,dia125_utt3.mp4,Cannot open or decode audio: [Errno 1094995529] Invalid data found when processing input: 'D:\\Multimodal-Emotion-Recognition-Using-Facial-Expressions-and-Speech\\data\\raw\\MELD\\train\\train_splits\\dia125_utt3.mp4'
+Validation,dia110_utt7.mp4,Missing video

@@ -1,4 +1,4 @@
 Split,Annotation rows,MP4 files found,Annotations with matching MP4,Annotations without matching MP4,Rows with missing video IDs
 train,9989,9989,9989,0,0
 dev,1109,1112,1108,1,0
-test,2610,4807,2610,0,0
+test,2610,2747,2610,0,0
